@@ -7,3 +7,4 @@ for (let index = 0; index < 1; index++) {
 }
 basic.showIcon(IconNames.Happy)
 music.startMelody(music.builtInMelody(Melodies.PowerDown), MelodyOptions.Once)
+basic.showIcon(IconNames.Heart)
